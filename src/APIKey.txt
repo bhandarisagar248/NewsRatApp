@@ -1,0 +1,16 @@
+API KEY=a554737285f247de9724b0459510d06b
+
+
+
+url request for football
+https://newsapi.org/v2/top-headlines?apiKey=a554737285f247de9724b0459510d06b&q=football
+https://newsapi.org/v2/top-headlines?apiKey=a554737285f247de9724b0459510d06b&q=football
+
+categories:::
+business
+entertainment
+general
+health
+science
+sports
+technology
